@@ -1,0 +1,10 @@
+﻿It is reminder application written in JAVA and uses MySQL for storage, for presentation i have used JSP pages as front end.
+Instructions:
+• A database with the name 'reminder' is required to be made and the reminder.sql file is required to be imported. 
+• You can add a reminder in the future; if the reminder is added on the current date it will be received as a mail to you. 
+• We need 2 gmail id,one will be teated as From address and other is treated as To address. 
+Functionality: You can, 
+• add reminder (title, description and date&time)
+• view reminder  
+• edit reminder 
+• delete reminder
